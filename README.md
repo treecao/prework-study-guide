@@ -1,4 +1,4 @@
-# <Tree's First README :)>
+# Tree's First README :)
 
 ## Description
 
